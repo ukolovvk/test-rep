@@ -3,6 +3,8 @@
 
 .idea/
 target/
+*.releaseBackup
+release.properties
 
 # Log file
 *.log
